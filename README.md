@@ -1,4 +1,4 @@
-# JJahir_Projects
+# Projects
 Data science and data engineering projects
 
 
